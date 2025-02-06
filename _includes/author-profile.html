@@ -117,7 +117,10 @@
       {% endif %}
       {% if author.wikipedia %}
         <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i> Wikipedia</a></li>
-{% endif %}
+      {% endif %}
+      {% if author.projects %}
+        <li><a href="{{ base_path }}/projects/"><i class="fa fa-fw fa-folder" aria-hidden="true"></i> Projects</a></li>
+      {% endif %}
     </ul>
   </div>
 </div>
