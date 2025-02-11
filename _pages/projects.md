@@ -18,28 +18,28 @@ author_profile: true
 
 <div class="project-demos">
   <figure>
-    <img src="/images/demo1.gif" alt="US Accidents Demo 1">
+    <img src="{{ base_path }}/images/demo1.gif" alt="US Accidents Demo 1">
     <figcaption>Geographic Distribution Analysis</figcaption>
   </figure>
 
   <figure>
-    <img src="/images/demo2.gif" alt="US Accidents Demo 2">
+    <img src="{{ base_path }}/images/demo2.gif" alt="US Accidents Demo 2">
     <figcaption>Weather Impact Visualization</figcaption>
   </figure>
 
   <figure>
-    <img src="/images/demo3.gif" alt="US Accidents Demo 3">
+    <img src="{{ base_path }}/images/demo3.gif" alt="US Accidents Demo 3">
     <figcaption>Temporal Pattern Analysis</figcaption>
   </figure>
 
   <figure>
-    <img src="/images/demo4.gif" alt="US Accidents Demo 4">
+    <img src="{{ base_path }}/images/demo4.gif" alt="US Accidents Demo 4">
     <figcaption>Interactive Data Exploration</figcaption>
   </figure>
 </div>
 
 ### Live Demo & Resources
-- 🚀 [**Access Interactive Dashboard**](https://xiwenjiang-us-accident-streamlit-appproject-introduction-fv70dq.streamlit.app/)
+- 🚀 [**Access Interactive Dashboard (TRY IT NOW!)**](https://xiwenjiang-us-accident-streamlit-appproject-introduction-fv70dq.streamlit.app/)
 - 💻 [**View Source Code**](https://github.com/XiwenJiang/US-Accident)
 - 📚 [**Project Documentation**](https://github.com/XiwenJiang/US-Accident/blob/main/README.md)
 
@@ -51,7 +51,6 @@ author_profile: true
 - **Description**: Data visualization tool built with Streamlit
 - **Technologies**: Python, Streamlit, Pandas, Plotly
 - **Demo**: [Watch Demo Video](your-screencast-link-here)
-- **GitHub**: [Source Code](your-github-repo-link)
 
 <video width="100%" controls>
   <source src="path-to-your-screencast.mp4" type="video/mp4">
