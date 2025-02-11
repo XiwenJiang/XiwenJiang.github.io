@@ -8,8 +8,11 @@ author_profile: true
 {% include base_path %}
 
 ## US Accidents Analysis and Visualization Project
-- **Description**: Interactive data visualization and analysis of US traffic accidents using extensive datasets
-- **Technologies**: Python, Streamlit, Pandas, Plotly
+- **Description**: Interactive data visualization and analysis platform exploring US traffic accidents patterns and trends
+- **Technologies**: 
+  - Python, Streamlit, Pandas
+  - Plotly, Folium for interactive visualizations
+  - Data processing and statistical analysis
 - **Features**:
   - Real-time data filtering and visualization
   - Geographic accident distribution analysis
@@ -41,13 +44,15 @@ author_profile: true
 </div>
 
 ### Live Demo
-<iframe src="https://xiwenjiang-us-accident-streamlit-appproject-introduction-fv70dq.streamlit.app/" 
-        width="100%" 
-        height="800px" 
-        frameborder="0">
-</iframe>
+🔗 [Access the Interactive Dashboard](https://xiwenjiang-us-accident-streamlit-appproject-introduction-fv70dq.streamlit.app/)
 
-- **GitHub**: [Source Code Repository](https://github.com/XiwenJiang/US-Accident)
+### Project Resources
+- **GitHub Repository**: [View Source Code](https://github.com/XiwenJiang/US-Accident)
+- **Documentation**: [Project Details](https://github.com/XiwenJiang/US-Accident/blob/main/README.md)
+
+---
+
+## Other Projects
 
 ## Interactive Data Visualization Project
 - **Description**: Data visualization tool built with Streamlit
@@ -98,5 +103,28 @@ Please check back later or contact me for more information.
   margin-top: 10px;
   font-style: italic;
   color: #666;
+}
+
+/* New styles for better readability */
+h2 {
+  color: #2c3e50;
+  border-bottom: 2px solid #eee;
+  padding-bottom: 10px;
+  margin-top: 30px;
+}
+
+.live-demo-link {
+  display: inline-block;
+  margin: 20px 0;
+  padding: 10px 20px;
+  background-color: #3498db;
+  color: white;
+  border-radius: 5px;
+  text-decoration: none;
+  transition: background-color 0.3s ease;
+}
+
+.live-demo-link:hover {
+  background-color: #2980b9;
 }
 </style>
