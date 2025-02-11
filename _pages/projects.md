@@ -40,12 +40,12 @@ author_profile: true
 
 ### Live Demo & Resources
 - 🚀 [**Access Interactive Dashboard (TRY IT NOW!)**](https://xiwenjiang-us-accident-streamlit-appproject-introduction-fv70dq.streamlit.app/)
-- 💻 [**View Source Code**](https://github.com/XiwenJiang/US-Accident)
-- 📚 [**Project Documentation**](https://github.com/XiwenJiang/US-Accident/blob/main/README.md)
+- 💻 [**View Source Code**](https://github.com/XiwenJiang/us-accidents-dashboard)
+- 📚 [**Project Documentation**](https://github.com/XiwenJiang/us-accidents-dashboard/README.md)
 
 ---
 
-## Other Projects
+<!-- ## Other Projects
 
 ## Interactive Data Visualization Project
 - **Description**: Data visualization tool built with Streamlit
@@ -70,7 +70,7 @@ Please check back later or contact me for more information.
 
 {% for post in site.projects %}
   {% include archive-single.html %}
-{% endfor %}
+{% endfor %} -->
 
 <style>
 .project-demos {
