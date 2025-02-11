@@ -3,6 +3,8 @@ layout: archive
 title: "Projects"
 permalink: /projects/
 author_profile: true
+redirect_from: 
+  - /projects.html
 ---
 
 {% include base_path %}
@@ -13,11 +15,6 @@ author_profile: true
   - Python, Streamlit, Pandas
   - Plotly, Folium for interactive visualizations
   - Data processing and statistical analysis
-- **Features**:
-  - Real-time data filtering and visualization
-  - Geographic accident distribution analysis
-  - Weather impact analysis
-  - Temporal patterns exploration
 
 ### Project Demonstrations
 
@@ -43,12 +40,10 @@ author_profile: true
   </figure>
 </div>
 
-### Live Demo
-🔗 [Access the Interactive Dashboard](https://xiwenjiang-us-accident-streamlit-appproject-introduction-fv70dq.streamlit.app/)
-
-### Project Resources
-- **GitHub Repository**: [View Source Code](https://github.com/XiwenJiang/US-Accident)
-- **Documentation**: [Project Details](https://github.com/XiwenJiang/US-Accident/blob/main/README.md)
+### Live Demo & Resources
+- 🚀 [**Access Interactive Dashboard**](https://xiwenjiang-us-accident-streamlit-appproject-introduction-fv70dq.streamlit.app/)
+- 💻 [**View Source Code**](https://github.com/XiwenJiang/US-Accident)
+- 📚 [**Project Documentation**](https://github.com/XiwenJiang/US-Accident/blob/main/README.md)
 
 ---
 
